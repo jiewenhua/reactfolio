@@ -98,6 +98,7 @@ const Homepage = () => {
                                 </div>
                             </div>
 
+
                             <div className="homepage-first-area-right-side">
                                 <div className="homepage-image-container">
                                     <div className="homepage-image-wrapper">
