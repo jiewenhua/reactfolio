@@ -3,7 +3,7 @@ const INFO = {
 		title: "Reactfolio by truethari",
 		name: "Jiewen Huang",
 		email: "jiewenhuang0831@gmail.com",
-		logo: "../profilepic.png",
+		logo: "../profilepicture.png",
 	},
 
 	socials: {
