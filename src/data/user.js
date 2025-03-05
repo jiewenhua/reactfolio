@@ -64,12 +64,12 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "jiewenh.dev | React, Next.js, JS ",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A modern and responsive personal website showcasing projects, skills and experience. Built with performance and accessibility in mind, it serves as a central hub for highlighting technical expertise and past work.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/jiewenhua/reactfolio",
 		},
 
 		{
