@@ -37,7 +37,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Weather Prediction",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -46,7 +46,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "Sign Language Recognition",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
@@ -54,8 +54,19 @@ const INFO = {
 			link: "https://github.com",
 		},
 
+		,
+
 		{
-			title: "Project 3",
+			title: "Flash it",
+			description:
+				"AI-based tool that creates flashcards from imported notes, making studying more efficient and effective.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+
+		{
+			title: "Facial Recognition ",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",

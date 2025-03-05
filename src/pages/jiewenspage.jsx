@@ -40,23 +40,11 @@ const JiewensPage = () => {
 
                     <div className="jiewenscorner-container">
                         <div className="title jiewenscorner-title">
-                            Welcome to Jiewen's Corner
+                            Welcome to Jiewen's Corner 
                         </div>
 
                         <div className="subtitle jiewenscorner-subtitle">
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
-                            Here you can find all my latest updates and projects.
+                            This page is currently in progress. Please check back later 😊.
 
                         </div>
                     </div>
