@@ -73,12 +73,12 @@ const INFO = {
 		},
 
 		{
-			title: "Project 5",
+			title: "Insight | React, JS, PHP, MySQL",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"A web-based platform designed to help university students share and access professor reviews securely. InSight features real-time data updates, a dynamic recommendation system, and a responsive user interface. With secure authentication and email verification, the platform ensures only verified students can contribute, maintaining review authenticity and data protection.",
+				logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+				linkText: "View Project",
+			link: "https://github.com/cse442-at-ub/s24semesterproject-bread",
 		},
 	],
 };
